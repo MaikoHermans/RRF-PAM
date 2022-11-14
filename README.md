@@ -48,6 +48,6 @@ M98 P"sys/print_area_mesh.g" A%MINX% B%MAXX% C%MINY% D%MAXY%
 To make PAM work with Cura you need to install a post processing plugin
 
 1. in cura open menu ```Help -> Show configuration folder```
-2. copy [MeshPrintSize.py](/cura/MeshPrintSize.py) into the ```scripts``` folder
+2. copy [MeshPrintSize.py](/MeshPrintSize.py) into the ```scripts``` folder
 3. restart cura
 4. in cura open menu ```Extensions -> Post processing -> Modify G-Code``` and select ```Mesh Print Size```
